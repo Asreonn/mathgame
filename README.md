@@ -123,3 +123,36 @@ Package-specific configuration (icons, bundle IDs, signing) resides under `andro
 - Multiplayer leaderboards sharing max combo / floor reached.
 
 Feel free to fork, experiment with new mechanics, and open pull requests via the provided templates. Happy hacking!
+
+## Project State
+
+Status: NEAR_COMPLETE
+Completion: 72
+Last reviewed: 2026-09-22
+Family: math-roguelite
+Resume cost: low
+
+### Purpose
+
+Aritmetik roguelite. README oyunu anlatıyor.
+
+### Current state
+
+README yaklaşık 6 bin karakter, test var, yaklaşık 4 bin satır. Git 2025-09-19.
+
+### Missing / unfinished
+
+Kalan kat veya içerik listesi bu taramada oynanmadı.
+
+### Next action
+
+README'deki bir sonraki kat veya eksik işlemi uygula. Yeni matematik oyunu açma.
+
+### Important files
+
+Registry id `mathgame`. Source scan: 15 files, about 4159 lines, tests=True.
+
+### Related projects
+
+none
+
