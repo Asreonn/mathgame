@@ -1,5 +1,7 @@
 # Zeka Kulesi
 
+> **Status:** Archived. Finished Flutter game from 2025. Kept as-is, not maintained.
+
 A Flutter-based arithmetic roguelite where players climb a procedurally scaling tower by answering rapid-fire math challenges. Correct streaks trigger combo-driven combat bonuses, while mistakes accelerate enemy attacks and jeopardise survival. The project targets mobile form factors first, with responsive layouts for tablets and the web.
 
 ## Feature Overview
